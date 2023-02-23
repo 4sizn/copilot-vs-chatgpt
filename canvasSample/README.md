@@ -17,12 +17,12 @@
 ## 결과(스크린샷 / 소스코드 첨부)
 
 ### chatGPT
-![chatgpt-qna](/chatgpt-qna.png)
-![chatgpt-output](/chatgpt-output.png)
+![chatgpt-qna](chatgpt-qna.png)
+![chatgpt-output](chatgpt-output.png)
 
 ### copilot
-![chatgpt-output](/copilot-qna.png)
-![chatgpt-output](/copilot-output.png)
+![chatgpt-output](copilot-qna.png)
+![chatgpt-output](copilot-output.png)
 
 -----
 
